@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="MapSuiteMobileForAndroid_VSIX.ThinkGeo.52a22b92-3823-4856-acce-5b860efc9782" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <DisplayName>MapSuite Mobile for Android App Template</DisplayName>
+    <Description xml:space="preserve">This project template creates a simple Android client application with MapSuite Mobile for Android component referenced. It also contains a WorldStreets map setup on the map.</Description>
+    <MoreInfo>https://thinkgeo.com/</MoreInfo>
+    <GettingStartedGuide>http://wiki.thinkgeo.com/wiki/map_suite_mobile_for_android_quick_start_guide</GettingStartedGuide>
+    <Icon>ThinkGeo-logo.png</Icon>
+    <PreviewImage>Screenshot.png</PreviewImage>
+    <Tags>MapSuite, GIS, Map, Mapping, Android</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,)" />
+    <InstallationTarget Version="[14.0,)" Id="Microsoft.VisualStudio.Pro" />
+  </Installation>
+  <Dependencies>
+    <Dependency d:Source="Installed" Version="[4.0,)" Id="Xamarin.VisualStudio" DisplayName="Xamarin for Visual Studio" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\MapSuite Mobile for Android App.zip" />
+  </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Component.Xamarin" Version="[1.0,)" DisplayName="Xamarin" />
+  </Prerequisites>
+</PackageManifest>
