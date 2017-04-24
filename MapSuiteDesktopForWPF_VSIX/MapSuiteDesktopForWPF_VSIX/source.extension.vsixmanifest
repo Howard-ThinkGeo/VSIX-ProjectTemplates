@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MapSuiteDesktopForWPF_VSIX.ThinkGeo.1ddd86da-e48a-46cc-ac74-a43b819476d0" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <Identity Id="MapSuiteDesktopForWPF_VSIX.ThinkGeo.D0450E77-2330-4C5E-8779-BBCCEF7515A0" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
     <DisplayName>MapSuite Desktop for WPF App Template</DisplayName>
     <Description xml:space="preserve">This project template creates a simple Windows Presentation Foundation client application with MapSuite Desktop for WPF component referenced. It also contains a WorldStreets map setup on the map.</Description>
     <MoreInfo>https://thinkgeo.com/</MoreInfo>

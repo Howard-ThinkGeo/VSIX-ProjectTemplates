@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MapSuiteMobileForAndroid_VSIX.ThinkGeo.52a22b92-3823-4856-acce-5b860efc9782" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <Identity Id="MapSuiteMobileForAndroid_VSIX.ThinkGeo.F5E126A1-CAFE-4D09-9F30-6A910649D275" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
     <DisplayName>MapSuite Mobile for Android App Template</DisplayName>
     <Description xml:space="preserve">This project template creates a simple Android client application with MapSuite Mobile for Android component referenced. It also contains a WorldStreets map setup on the map.</Description>
     <MoreInfo>https://thinkgeo.com/</MoreInfo>

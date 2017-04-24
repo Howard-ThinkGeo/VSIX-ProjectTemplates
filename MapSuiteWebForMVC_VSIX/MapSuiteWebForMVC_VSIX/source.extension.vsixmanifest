@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MapSuiteWebForMVC_VSIX.ThinkGeo.5ed136a9-1a58-4a2c-be47-e421a9444b8e" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <Identity Id="MapSuiteWebForMVC_VSIX.ThinkGeo.0BBCE1AB-E0CF-46B8-8FC5-C6CD44A26ED7" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
     <DisplayName>MapSuite Web for MVC App Template</DisplayName>
     <Description xml:space="preserve">This project template creates a simple Web client application with MapSuite Web for MVC component referenced. It also contains a WorldStreets map setup on the map.</Description>
     <MoreInfo>https://thinkgeo.com/</MoreInfo>
