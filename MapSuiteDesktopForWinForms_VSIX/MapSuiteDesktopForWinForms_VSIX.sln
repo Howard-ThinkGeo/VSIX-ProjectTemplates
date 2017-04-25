@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSuiteDesktopForWinForms_VSIX", "MapSuiteDesktopForWinForms_VSIX\MapSuiteDesktopForWinForms_VSIX.csproj", "{2B191AAA-5562-4FF4-B2B1-6F7F9F26F422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map Suite Desktop for WinForms App1", "Map Suite Desktop for WinForms App1\Map Suite Desktop for WinForms App1.csproj", "{DE17A33B-A434-4D20-B011-3D4FCF88FF4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2B191AAA-5562-4FF4-B2B1-6F7F9F26F422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B191AAA-5562-4FF4-B2B1-6F7F9F26F422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B191AAA-5562-4FF4-B2B1-6F7F9F26F422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE17A33B-A434-4D20-B011-3D4FCF88FF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE17A33B-A434-4D20-B011-3D4FCF88FF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE17A33B-A434-4D20-B011-3D4FCF88FF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE17A33B-A434-4D20-B011-3D4FCF88FF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

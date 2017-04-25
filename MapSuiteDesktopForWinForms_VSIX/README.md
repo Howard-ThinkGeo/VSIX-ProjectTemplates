@@ -2,7 +2,7 @@
 
 ## Description
 
-This project template creates a simple Windows Forms client application with MapSuite Desktop for WinForms component referenced. It also contains a WorldStreets map setup on the map.
+This project template creates a simple Windows Forms client application with Map Suite Desktop for WinForms component referenced. It also contains a WorldStreets map setup on the map.
 
 ## Tags
 
