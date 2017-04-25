@@ -2,7 +2,7 @@
 
 ## Description
 
-This project template creates a simple iOS client application with MapSuite Mobile for iOS component referenced. It also contains a WorldStreets map setup on the map.
+This project template creates a simple iOS client application with Map Suite Mobile for iOS component referenced. It also contains a WorldStreets map setup on the map.
 
 ## Tags
 
