@@ -2,7 +2,7 @@
 
 ## Description
 
-This project template creates a simple Web Forms client application with MapSuite Web for WebForms component referenced. It also contains a WorldStreets map setup on the map.
+This project template creates a simple Web Forms client application with Map Suite Web for WebForms component referenced. It also contains a WorldStreets map setup on the map.
 
 ## Tags
 

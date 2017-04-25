@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSuiteWebForWebForms_VSIX", "MapSuiteWebForWebForms_VSIX\MapSuiteWebForWebForms_VSIX.csproj", "{3CA53267-6A72-4366-8947-2FAB359AFC91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map Suite Web for WebForms App1", "Map Suite Web for WebForms App1\Map Suite Web for WebForms App1.csproj", "{D34436C4-D187-40E3-A76C-CE30E7104D2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3CA53267-6A72-4366-8947-2FAB359AFC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CA53267-6A72-4366-8947-2FAB359AFC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CA53267-6A72-4366-8947-2FAB359AFC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34436C4-D187-40E3-A76C-CE30E7104D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34436C4-D187-40E3-A76C-CE30E7104D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34436C4-D187-40E3-A76C-CE30E7104D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34436C4-D187-40E3-A76C-CE30E7104D2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
