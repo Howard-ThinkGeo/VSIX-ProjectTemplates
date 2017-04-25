@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+</head>
+<body>
+    <div id="map" style="height: 800px; width: 1200px"></div>
+</body>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script>
+    var map = L.map('map', { zoomAnimation: false }).setView([39.6948, -96.8150], 4);
+
+    // add thinkgeo map
+    L.tileLayer.wms('http://{s}.thinkgeo.com/CachedWMSServer/WmsServer.axd', {
+        subdomains: ['worldmapkit1', 'worldmapkit2', 'worldmapkit3', 'worldmapkit4', 'worldmapkit5', 'worldmapkit6'],
+        layers: 'OSMWorldMapKitLayer',
+        format: 'image/png',
+        styles: 'WorldMapKitDefaultStyle',
+        version: '1.1.1',
+        attribution: '<a href="http://thinkgeo.com/map-suite-developer-gis/world-map-kit-sdk/">ThinkGeo</a> | &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors '
+    }).addTo(map);
+
+    var worldLayer = L.tileLayer('/Map_Suite_Web_for_WebApi_App1/tile/{z}/{x}/{y}').addTo(map);
+</script>
+</html>

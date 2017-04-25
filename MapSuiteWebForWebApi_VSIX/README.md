@@ -2,7 +2,7 @@
 
 ## Description
 
-This project template creates a simple Web application with MapSuite Web for WebApi component referenced. It also contains a WorldStreets map setup on the map.
+This project template creates a simple Web application with Map Suite Web for WebApi component referenced. It also contains a WorldStreets map setup on the map.
 
 ## Tags
 
