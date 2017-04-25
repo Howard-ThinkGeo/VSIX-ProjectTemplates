@@ -2,7 +2,7 @@
 
 ## Description
 
-This project template creates a simple Web client application with MapSuite Web for MVC component referenced. It also contains a WorldStreets map setup on the map.
+This project template creates a simple Web client application with Map Suite Web for MVC component referenced. It also contains a WorldStreets map setup on the map.
 
 ## Tags
 
