@@ -2,7 +2,7 @@
 
 ## Description
 
-This project template creates a simple Android client application with MapSuite Mobile for Android component referenced. It also contains a WorldStreets map setup on the map.
+This project template creates a simple Android client application with Map Suite Mobile for Android component referenced. It also contains a WorldStreets map setup on the map.
 
 ## Tags
 
