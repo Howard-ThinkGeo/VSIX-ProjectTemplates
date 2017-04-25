@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSuiteMobileForAndroid_VSIX", "MapSuiteMobileForAndroid_VSIX\MapSuiteMobileForAndroid_VSIX.csproj", "{26387780-0AB4-4E1E-BEC3-E0DC2AC21002}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map Suite Mobile for Android App1", "Map Suite Mobile for Android App1\Map Suite Mobile for Android App1.csproj", "{C00EF3CD-2420-415F-B6D2-0CC96AD5C3FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{26387780-0AB4-4E1E-BEC3-E0DC2AC21002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26387780-0AB4-4E1E-BEC3-E0DC2AC21002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26387780-0AB4-4E1E-BEC3-E0DC2AC21002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00EF3CD-2420-415F-B6D2-0CC96AD5C3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00EF3CD-2420-415F-B6D2-0CC96AD5C3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00EF3CD-2420-415F-B6D2-0CC96AD5C3FE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C00EF3CD-2420-415F-B6D2-0CC96AD5C3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00EF3CD-2420-415F-B6D2-0CC96AD5C3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00EF3CD-2420-415F-B6D2-0CC96AD5C3FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
