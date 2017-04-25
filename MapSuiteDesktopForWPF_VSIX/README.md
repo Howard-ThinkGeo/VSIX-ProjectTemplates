@@ -2,7 +2,7 @@
 
 ## Description
 
-This project template creates a simple Windows Presentation Foundation client application with MapSuite Desktop for WPF component referenced. It also contains a WorldStreets map setup on the map.
+This project template creates a simple Windows Presentation Foundation client application with Map Suite Desktop for WPF component referenced. It also contains a WorldStreets map setup on the map.
 
 ## Tags
 
