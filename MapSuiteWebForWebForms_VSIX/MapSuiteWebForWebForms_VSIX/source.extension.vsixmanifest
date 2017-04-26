@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MapSuiteWebForWebForms_VSIX.ThinkGeo.E8B59794-4C0C-49A8-BBDD-E8591D48DF64" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <Identity Id="MapSuiteWebForWebForms_VSIX.ThinkGeo.0124288C-615B-4E13-987E-8905386CC36F" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
     <DisplayName>Map Suite Web for WebForms App Template</DisplayName>
     <Description xml:space="preserve">This project template creates a simple Web Forms client application with Map Suite Web for WebForms component referenced. It also contains a WorldStreets map setup on the map.</Description>
     <MoreInfo>https://thinkgeo.com/</MoreInfo>

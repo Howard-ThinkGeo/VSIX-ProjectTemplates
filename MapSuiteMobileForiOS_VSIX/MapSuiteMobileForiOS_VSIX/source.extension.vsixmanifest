@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MapSuiteMobileForiOS_VSIX.ThinkGeo.8B813598-832D-46F8-B31A-4543CC853EBF" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <Identity Id="MapSuiteMobileForiOS_VSIX.ThinkGeo.60EA6AA6-C8C8-4204-84D8-E3513DA528F9" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
     <DisplayName>Map Suite Mobile for iOS App Template</DisplayName>
     <Description xml:space="preserve">This project template creates a simple iOS client application with Map Suite Mobile for iOS component referenced. It also contains a WorldStreets map setup on the map.</Description>
     <MoreInfo>https://thinkgeo.com/</MoreInfo>

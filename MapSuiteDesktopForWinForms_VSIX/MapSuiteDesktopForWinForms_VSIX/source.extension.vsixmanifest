@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MapSuiteDesktopForWinForms_VSIX.ThinkGeo.888EF3B8-C385-4731-8E34-2B3567135C09" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <Identity Id="MapSuiteDesktopForWinForms_VSIX.ThinkGeo.3624ea21-1d4c-4228-813f-5fc0a7a1efb4" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
     <DisplayName>Map Suite Desktop for WinForms App Template</DisplayName>
     <Description xml:space="preserve">This project template creates a simple Windows Forms client application with Map Suite Desktop for WinForms component referenced. It also contains a WorldStreets map setup on the map.</Description>
     <MoreInfo>https://thinkgeo.com/</MoreInfo>

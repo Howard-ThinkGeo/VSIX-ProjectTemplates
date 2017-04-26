@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MapSuiteWebForWebApi_VSIX.ThinkGeo.D168B81B-F31E-4300-B191-C0EA90D1E6A5" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
+    <Identity Id="MapSuiteWebForWebApi_VSIX.ThinkGeo.10A7583F-FBE2-4A7B-9F51-93B435811C11" Version="1.0" Language="en-US" Publisher="ThinkGeo" />
     <DisplayName>Map Suite Web for WebApi App Template</DisplayName>
     <Description xml:space="preserve">This project template creates a simple Web application with Map Suite Web for WebApi component referenced. It also contains a WorldStreets map setup on the map.</Description>
     <MoreInfo>https://thinkgeo.com/</MoreInfo>
